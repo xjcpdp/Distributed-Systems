@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoronavirusApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Select the country code</string>
+    <string-array name="country_arrays">
+        <item>United States(US)</item>
+        <item>China(CN)</item>
+        <item>Italy(IT)</item>
+        <item>France(FR)</item>
+        <item>India(IN)</item>
+        <item>Canada(CA)</item>
+        <item>North Korea(KR)</item>
+        <item>Mexico(MX)</item>
+    </string-array>
+
+</resources>
